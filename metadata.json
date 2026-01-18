@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Midtown Towers Islamabad - Your Ultimate Lifestyle",
+  "description": "The official luxury real estate portal for Midtown Towers Islamabad, Pakistan's first ever fully smart building. Developed by Cubic Developers and Al-Hunain Group.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
